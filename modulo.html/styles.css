@@ -1,0 +1,17 @@
+h1 {
+    color: aquamarine;
+}
+
+.texto {
+    color: green;
+}
+
+.lista {
+    color: orange;
+    font-size: 30px;
+}
+
+#paragrafo {
+    font-size: 30px;
+    color: blanchedalmond;
+}
